@@ -1,0 +1,19 @@
+{
+  "name": "rancher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northantech/rancher.git"
+  },
+  "author": "Doğan AHMETCİ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northantech/rancher/issues"
+  },
+  "homepage": "https://github.com/northantech/rancher#readme"
+}
